@@ -18,6 +18,3 @@ I'm a high school student from Indonesia who loves building software with real-w
 ![](https://github-readme-stats.shion.dev/api?username=womiekom&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=womiekom&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=womiekom&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=womiekom&icon=9&color=12)](https://visitcount.itsvg.in)
